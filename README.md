@@ -154,7 +154,7 @@ Open to opportunities in:
 
 🎨 **Behance:** [behance.net/nelsonsoares7](https://www.behance.net/nelsonsoares7)
 
-📱 **Phone:** +91 9970838156
+📱 **Phone:** +919970838156
 
 🌐 **Portfolio:** [View My Financial Analytics Portfolio](https://soaresnelson1603-ux.github.io/finsight-dashboard/)
 
