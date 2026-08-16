@@ -61,19 +61,14 @@ I’m particularly interested in using analytics to answer practical finance que
 
 **Revenue**
 → Where is revenue coming from?
-
 **Profitability**
 → Which business units are generating the strongest margins?
-
 **Receivables**
 → Where is cash getting blocked?
-
 **Payables**
 → Are supplier obligations being managed efficiently?
-
 **Working Capital**
 → How efficiently is the business converting operations into cash?
-
 **Management Reporting**
 → What should management focus on next?
 
@@ -83,13 +78,10 @@ I’m particularly interested in using analytics to answer practical finance que
 
 ### Finance & ERP
 `SAP` `Financial Accounting` `Cost Accounting` `ERP`
-
 ### Analytics & Reporting
 `Power BI` `Excel` `Financial Dashboards` `Data Analysis`
-
 ### Microsoft
 `Microsoft Excel` `PowerPoint` `Word`
-
 ### Data & Visualization
 `DAX` `Power Query` `KPI Design` `Data Visualization`
 
@@ -133,21 +125,9 @@ Finance-focused analytical reporting designed to help management understand:
 ## 🎯 What I Bring
 
 **21+ Years Finance Experience**
-
-+
-
 **Financial Analytics & Business Intelligence**
-
-+
-
 **Management Reporting & Decision Support**
-
-=
-
 ### Finance + Analytics + Business Insight
-
----
-
 ## 👨‍💼 Professional Profile
 
 I’m interested in opportunities where I can combine my **financial accounting experience with analytics, reporting and business intelligence** to help organizations improve financial visibility and decision-making.
@@ -184,4 +164,4 @@ Open to opportunities in:
 
 If you're reviewing my profile, I’d be happy to discuss opportunities involving:
 
-**Finance | Accounting | Financial Analytics | Business Intelligence | Power BI | Management Reporting | FP&A**
+Finance | Accounting | Financial Analytics | Business Intelligence | Power BI | Management Reporting | FP&A
