@@ -148,7 +148,7 @@ Open to opportunities in:
 
 ## 📫 Connect With Me
 
-📧 **Email:** (mailto:soares.nelson1603@gmail.com)
+📧 **Email:** [soares.nelson1603@gmail.com] (mailto:soares.nelson1603@gmail.com)
 
 💼 **LinkedIn:** [linkedin.com/in/nelson-soares-a3a49a9](https://www.linkedin.com/in/nelson-soares-a3a49a9)
 
